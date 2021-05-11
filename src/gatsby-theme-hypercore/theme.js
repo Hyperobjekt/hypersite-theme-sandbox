@@ -1,5 +1,5 @@
-import pink from "@material-ui/core/colors/pink"
-import { createMuiTheme } from "@material-ui/core"
+import pink from "@material-ui/core/colors/pink";
+import { createMuiTheme } from "@material-ui/core";
 
 let theme = createMuiTheme({
   palette: {
@@ -37,6 +37,6 @@ let theme = createMuiTheme({
       root: { margin: "1rem 0" },
     },
   },
-})
+});
 
-export default theme
+export default theme;
